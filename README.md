@@ -1,2 +1,3 @@
 # Learn-STM32
-This is an education material to show you basic usage of UART comunication on NUCLEO F767ZI board
+In every folder you could find one task, that explain some basic functionalities of STM32 on Nucleo F767ZI board.
+Every task has a learning section, where you get basic understandig of function and exam section, where you can apply your new knowledge.
