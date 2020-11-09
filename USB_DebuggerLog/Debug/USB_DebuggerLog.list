@@ -37,13 +37,13 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING
  16 .debug_macro  000251ff  00000000  00000000  0002b110  2**0
                   CONTENTS, READONLY, DEBUGGING
- 17 .debug_line   00006ea8  00000000  00000000  0005030f  2**0
+ 17 .debug_line   00006ea4  00000000  00000000  0005030f  2**0
                   CONTENTS, READONLY, DEBUGGING
- 18 .debug_str    000e802e  00000000  00000000  000571b7  2**0
+ 18 .debug_str    000e802e  00000000  00000000  000571b3  2**0
                   CONTENTS, READONLY, DEBUGGING
- 19 .comment      0000007b  00000000  00000000  0013f1e5  2**0
+ 19 .comment      0000007b  00000000  00000000  0013f1e1  2**0
                   CONTENTS, READONLY
- 20 .debug_frame  00001ddc  00000000  00000000  0013f260  2**2
+ 20 .debug_frame  00001ddc  00000000  00000000  0013f25c  2**2
                   CONTENTS, READONLY, DEBUGGING
 
 Disassembly of section .text:
@@ -362,7 +362,7 @@ int main(void)
 {
  8000538:	b580      	push	{r7, lr}
  800053a:	af00      	add	r7, sp, #0
-  
+  /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
 
@@ -419,7 +419,7 @@ int main(void)
 	 }
 	  //-------------------------------------
 
-	  //------------Light up LE1[Green] if you send 1, off when 0
+	  //------------Light up LE1[Green] if you send 10, off when something else
 	  if(input[0] == 10){
  800057e:	4b2c      	ldr	r3, [pc, #176]	; (8000630 <main+0xf8>)
  8000580:	781b      	ldrb	r3, [r3, #0]
@@ -569,7 +569,7 @@ void SystemClock_Config(void)
  8000670:	4618      	mov	r0, r3
  8000672:	f003 f9eb 	bl	8003a4c <memset>
 
-  /** Configure the main internal regulator output voltage 
+  /** Configure the main internal regulator output voltage
   */
   __HAL_RCC_PWR_CLK_ENABLE();
  8000676:	4b39      	ldr	r3, [pc, #228]	; (800075c <SystemClock_Config+0x118>)
@@ -594,7 +594,7 @@ void SystemClock_Config(void)
  80006a2:	f403 4340 	and.w	r3, r3, #49152	; 0xc000
  80006a6:	603b      	str	r3, [r7, #0]
  80006a8:	683b      	ldr	r3, [r7, #0]
-  /** Initializes the CPU, AHB and APB busses clocks 
+  /** Initializes the CPU, AHB and APB busses clocks
   */
   RCC_OscInitStruct.OscillatorType = RCC_OSCILLATORTYPE_HSE;
  80006aa:	2301      	movs	r3, #1
@@ -631,7 +631,7 @@ void SystemClock_Config(void)
     Error_Handler();
  80006ee:	f000 f91f 	bl	8000930 <Error_Handler>
   }
-  /** Activate the Over-Drive mode 
+  /** Activate the Over-Drive mode
   */
   if (HAL_PWREx_EnableOverDrive() != HAL_OK)
  80006f2:	f001 f96f 	bl	80019d4 <HAL_PWREx_EnableOverDrive>
@@ -642,7 +642,7 @@ void SystemClock_Config(void)
     Error_Handler();
  80006fc:	f000 f918 	bl	8000930 <Error_Handler>
   }
-  /** Initializes the CPU, AHB and APB busses clocks 
+  /** Initializes the CPU, AHB and APB busses clocks
   */
   RCC_ClkInitStruct.ClockType = RCC_CLOCKTYPE_HCLK|RCC_CLOCKTYPE_SYSCLK
  8000700:	230f      	movs	r3, #15
@@ -775,10 +775,10 @@ static void MX_USART3_UART_Init(void)
 
 080007c4 <MX_DMA_Init>:
 
-/** 
+/**
   * Enable DMA controller clock
   */
-static void MX_DMA_Init(void) 
+static void MX_DMA_Init(void)
 {
  80007c4:	b580      	push	{r7, lr}
  80007c6:	b082      	sub	sp, #8
@@ -1106,7 +1106,7 @@ void HAL_UART_MspInit(UART_HandleTypeDef* huart)
  80009ba:	f403 2380 	and.w	r3, r3, #262144	; 0x40000
  80009be:	613b      	str	r3, [r7, #16]
  80009c0:	693b      	ldr	r3, [r7, #16]
-  
+
     __HAL_RCC_GPIOD_CLK_ENABLE();
  80009c2:	4b2d      	ldr	r3, [pc, #180]	; (8000a78 <HAL_UART_MspInit+0xf0>)
  80009c4:	6b1b      	ldr	r3, [r3, #48]	; 0x30
@@ -1118,9 +1118,9 @@ void HAL_UART_MspInit(UART_HandleTypeDef* huart)
  80009d2:	f003 0308 	and.w	r3, r3, #8
  80009d6:	60fb      	str	r3, [r7, #12]
  80009d8:	68fb      	ldr	r3, [r7, #12]
-    /**USART3 GPIO Configuration    
+    /**USART3 GPIO Configuration
     PD8     ------> USART3_TX
-    PD9     ------> USART3_RX 
+    PD9     ------> USART3_RX
     */
     GPIO_InitStruct.Pin = GPIO_PIN_8|GPIO_PIN_9;
  80009da:	f44f 7340 	mov.w	r3, #768	; 0x300

@@ -1,4 +1,4 @@
-11:22:39 **** Incremental Build of configuration Debug for project USB_DebuggerLog ****
+17:06:56 **** Incremental Build of configuration Debug for project USB_DebuggerLog ****
 make -j12 all 
 arm-none-eabi-size   USB_DebuggerLog.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   USB_DebuggerLog.elf
 Finished building: default.size.stdout
  
 
-11:22:39 Build Finished. 0 errors, 0 warnings. (took 236ms)
+17:06:56 Build Finished. 0 errors, 0 warnings. (took 259ms)
 
