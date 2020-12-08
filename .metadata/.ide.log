@@ -2075,3 +2075,1723 @@
 2020-11-03 16:30:00,554 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 962mS.
 2020-11-03 16:30:00,554 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
 2020-11-03 16:30:00,555 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 20:16:42,044 [INFO] Activator:178 - 
+
+
+2020-11-09 20:16:42,054 [INFO] Activator:179 - !SESSION log4j initialized
+2020-11-09 20:16:56,958 [INFO] ApplicationProperties:181 - Using Application install path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643
+2020-11-09 20:16:57,009 [INFO] DbMcusXml:70 - Set database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/
+2020-11-09 20:16:57,015 [INFO] DbBoardsPdsc:56 - Set plugin database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/boardmanager/
+2020-11-09 20:16:57,015 [INFO] DbMcus:258 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-11-09 20:16:57,016 [INFO] DbBoards:264 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-11-09 20:16:57,019 [INFO] DbExamples:326 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-11-09 20:16:57,200 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:57,203 [INFO] DbMcusJson:63 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:57,204 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:57,206 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:57,242 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-11-09 20:16:57,245 [INFO] DbExamplesSqlite:800 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:57,558 [INFO] RulesReader:52 - Compatibility file has been processed (209 Rules)
+2020-11-09 20:16:57,775 [INFO] MicroXplorer:564 - Detected Java Version = 1.8.0_202
+2020-11-09 20:16:57,775 [INFO] DbMcusXml:70 - Set database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/
+2020-11-09 20:16:57,776 [INFO] DbBoardsPdsc:56 - Set plugin database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/boardmanager/
+2020-11-09 20:16:57,776 [INFO] DbMcus:258 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-11-09 20:16:57,776 [INFO] DbBoards:264 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-11-09 20:16:57,776 [INFO] DbExamples:326 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-11-09 20:16:57,777 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:57,777 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:57,777 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:57,777 [INFO] DbMcusJson:63 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:57,777 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:57,777 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:57,777 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:57,777 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:57,777 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:57,777 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:57,778 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-11-09 20:16:57,778 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:57,778 [INFO] DbExamplesSqlite:800 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:57,936 [INFO] MainPanel:189 - HeapMemory: 332398592
+2020-11-09 20:16:58,167 [INFO] DbMcusXml:70 - Set database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/
+2020-11-09 20:16:58,167 [INFO] DbBoardsPdsc:56 - Set plugin database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/boardmanager/
+2020-11-09 20:16:58,167 [INFO] DbMcus:258 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-11-09 20:16:58,167 [INFO] DbBoards:264 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-11-09 20:16:58,168 [INFO] DbExamples:326 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/plugins/mcufinder/images/
+2020-11-09 20:16:58,168 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:58,169 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:58,169 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:58,169 [INFO] DbMcusJson:63 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:58,169 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:58,169 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:58,169 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:58,169 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:58,169 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:58,169 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:58,169 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-11-09 20:16:58,170 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-11-09 20:16:58,170 [INFO] DbExamplesSqlite:800 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-11-09 20:16:58,208 [INFO] ApplicationProperties:181 - Using Application install path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643
+2020-11-09 20:16:58,209 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, ]
+2020-11-09 20:16:58,212 [INFO] PluginManage:292 - Check plugin analytics
+2020-11-09 20:17:02,976 [INFO] AnalyticsPlugin:203 - Accepted Software Licenses: 
+2020-11-09 20:17:02,976 [INFO] AnalyticsPlugin:205 - Accepted CMSIS Pack Licenses: 
+2020-11-09 20:17:02,976 [INFO] AnalyticsPlugin:207 - Accepted Firmware Licenses: 
+2020-11-09 20:17:02,977 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-11-09 20:17:02,977 [INFO] PluginManage:292 - Check plugin clock
+2020-11-09 20:17:03,001 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-11-09 20:17:03,001 [INFO] PluginManage:292 - Check plugin ddr
+2020-11-09 20:17:03,016 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-11-09 20:17:03,016 [INFO] PluginManage:292 - Check plugin filemanager
+2020-11-09 20:17:03,276 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-11-09 20:17:03,276 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-11-09 20:17:03,308 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-11-09 20:17:03,308 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-11-09 20:17:03,372 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-11-09 20:17:03,372 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-11-09 20:17:03,454 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-11-09 20:17:03,455 [INFO] PluginManage:292 - Check plugin power
+2020-11-09 20:17:03,512 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-11-09 20:17:03,512 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-11-09 20:17:03,537 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-11-09 20:17:03,537 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-11-09 20:17:03,693 [INFO] ThirdPartyDb:333 - Open Third Party DataBase File (C:/Users/kalom/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 33 ms. number of Sw pack : 13
+2020-11-09 20:17:03,696 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-11-09 20:17:03,696 [INFO] PluginManage:292 - Check plugin tools
+2020-11-09 20:17:03,732 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-11-09 20:17:03,732 [INFO] PluginManage:292 - Check plugin tutovideos
+2020-11-09 20:17:04,115 [INFO] PluginManage:342 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2020-11-09 20:17:04,115 [INFO] PluginManage:292 - Check plugin updater
+2020-11-09 20:17:04,175 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-11-09 20:17:04,175 [INFO] PluginManage:265 - PluginManage : Loaded plugins [13]
+2020-11-09 20:17:04,475 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2020-11-09 20:17:04,716 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,717 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-11-09 20:17:04,734 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,734 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-11-09 20:17:04,782 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,782 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-11-09 20:17:04,827 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,827 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-11-09 20:17:04,840 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,841 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-11-09 20:17:04,844 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,844 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-11-09 20:17:04,862 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,863 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-11-09 20:17:04,872 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,872 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-11-09 20:17:04,889 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,889 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-11-09 20:17:04,905 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,905 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-11-09 20:17:04,921 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,921 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-11-09 20:17:04,942 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,942 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-11-09 20:17:04,959 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,960 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-11-09 20:17:04,979 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,979 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-11-09 20:17:04,999 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:04,999 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-11-09 20:17:05,015 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,016 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-11-09 20:17:05,063 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,063 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-11-09 20:17:05,074 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,074 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-11-09 20:17:05,095 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,095 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-11-09 20:17:05,121 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,121 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-11-09 20:17:05,150 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,150 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-11-09 20:17:05,159 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,160 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-11-09 20:17:05,168 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,168 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-11-09 20:17:05,180 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,180 [INFO] PluginManager:200 - loadIPPluginJar : add openamp
+2020-11-09 20:17:05,222 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,222 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-11-09 20:17:05,238 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,240 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-11-09 20:17:05,259 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,259 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-11-09 20:17:05,282 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,282 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-11-09 20:17:05,286 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,286 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-11-09 20:17:05,288 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,289 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-11-09 20:17:05,292 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,292 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-11-09 20:17:05,307 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,308 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-11-09 20:17:05,310 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,311 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-11-09 20:17:05,316 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,317 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-11-09 20:17:05,335 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,335 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-11-09 20:17:05,349 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,349 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-11-09 20:17:05,352 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,352 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-11-09 20:17:05,369 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:17:05,369 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-11-09 20:17:06,406 [INFO] CubeProgrammer:457 - [DDR PANEL] - PathOfProgrammer: null
+2020-11-09 20:17:07,160 [FATAL] Updater:282 - Updater called before beeing initialized
+2020-11-09 20:17:07,582 [FATAL] Updater:282 - Updater called before beeing initialized
+2020-11-09 20:17:07,583 [WARN] ThirdParty:775 - waiting for thirdparty lock release [close project]
+2020-11-09 20:17:07,583 [INFO] ThirdParty:777 - entering critical section [close project]
+2020-11-09 20:17:07,583 [INFO] ThirdParty:790 - exiting critical section [close project]
+2020-11-09 20:17:07,585 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2020-11-09 20:17:07,586 [FATAL] Updater:282 - Updater called before beeing initialized
+2020-11-09 20:17:07,636 [ERROR] Updater:967 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2020-11-09 20:17:07,637 [INFO] CubeProgrammer:457 - [DDR PANEL] - PathOfProgrammer: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.4.0.202007081208\tools\bin
+2020-11-09 20:17:07,641 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.4.0.202007081208\tools\bin\STM32_Programmer_CLI.exe -l
+2020-11-09 20:17:08,406 [INFO] MainDdrPanel:49 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.4.0.202007081208\tools\bin
+2020-11-09 20:17:08,761 [INFO] Updater:904 - Updater Version found : 6.0.1
+2020-11-09 20:17:08,819 [INFO] ApplicationProperties:181 - Using Application install path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643
+2020-11-09 20:17:09,012 [INFO] MainUpdater:2268 - connection check result : 10
+2020-11-09 20:17:09,013 [INFO] MainUpdater:239 - Updater Check For Update Now.
+2020-11-09 20:17:09,013 [INFO] MicroXplorer:414 - Change Database Version : DB.6.0.0
+2020-11-09 20:17:09,042 [INFO] CheckServerUpdateThread:102 - End of CheckServer Thread
+2020-11-09 20:17:09,052 [INFO] MainUpdater:2268 - connection check result : 10
+2020-11-09 20:17:09,714 [WARN] IntegrityCheckThread:61 - waiting for thirdparty lock release [integrity check]
+2020-11-09 20:17:09,714 [INFO] IntegrityCheckThread:63 - entering critical section [integrity check]
+2020-11-09 20:17:09,714 [WARN] MainUpdater:1087 - Updater busy. Cannot search thirdparties
+2020-11-09 20:17:09,853 [INFO] ServerAccessManage:348 - Download File mcusDocs.json._tmp_
+2020-11-09 20:17:10,242 [INFO] LoadUrlFilesThread:135 - End of LoadUrlFiles Thread
+2020-11-09 20:17:10,693 [INFO] ServerAccessManage:348 - Download File mcusFeaturesAndDescription.json._tmp_
+2020-11-09 20:17:12,726 [WARN] MainUpdater:1087 - Updater busy. Cannot search thirdparties
+2020-11-09 20:17:12,836 [INFO] LoadUrlFilesThread:135 - End of LoadUrlFiles Thread
+2020-11-09 20:17:13,416 [INFO] ServerAccessManage:348 - Download File boardsDocs.json._tmp_
+2020-11-09 20:17:13,647 [INFO] LoadUrlFilesThread:135 - End of LoadUrlFiles Thread
+2020-11-09 20:17:13,957 [INFO] ServerAccessManage:348 - Download File boards.json._tmp_
+2020-11-09 20:17:14,146 [INFO] LoadUrlFilesThread:135 - End of LoadUrlFiles Thread
+2020-11-09 20:17:14,253 [INFO] ServerAccessManage:348 - Download File cube-finder-db.zip
+2020-11-09 20:17:15,727 [WARN] MainUpdater:1087 - Updater busy. Cannot search thirdparties
+2020-11-09 20:17:16,291 [INFO] FileExtend:225 - Unzip File : cube-finder-db.zip
+2020-11-09 20:17:16,292 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-11-09 20:17:16,567 [INFO] LoadUrlFilesThread:135 - End of LoadUrlFiles Thread
+2020-11-09 20:17:17,459 [INFO] ServerAccessManage:348 - Download File crdb.zip
+2020-11-09 20:17:18,316 [INFO] FileExtend:225 - Unzip File : crdb.zip
+2020-11-09 20:17:18,317 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-11-09 20:17:18,338 [INFO] LoadUrlFilesThread:135 - End of LoadUrlFiles Thread
+2020-11-09 20:17:18,401 [INFO] ServerAccessManage:348 - Download File tutoVideoDB.zip
+2020-11-09 20:17:18,491 [INFO] FileExtend:225 - Unzip File : tutoVideoDB.zip
+2020-11-09 20:17:18,493 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-11-09 20:17:18,502 [INFO] LoadUrlFilesThread:135 - End of LoadUrlFiles Thread
+2020-11-09 20:17:18,588 [INFO] DbMcusDocs:145 - JSON generation date=Thu Nov 05 17:05:07 CET 2020 (1604592307)
+2020-11-09 20:17:18,653 [INFO] DbMcusXml:100 - Load MCU database from D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/families.xml
+2020-11-09 20:17:18,759 [INFO] ThirdPartyDb:299 - Save Third Party DataBase File (C:/Users/kalom/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) [forced]
+2020-11-09 20:17:18,765 [INFO] ThirdPartyDb:299 - Save Third Party DataBase File (C:/Users/kalom/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) [forced]
+2020-11-09 20:17:18,768 [INFO] IntegrityCheckThread:76 - exiting critical section [integrity check]
+2020-11-09 20:17:18,768 [INFO] IntegrityCheckThread:79 - End integrity checks thread
+2020-11-09 20:17:19,248 [INFO] DbMcusJson:92 - JSON generation date=Thu Nov 05 17:05:07 CET 2020 (1604592307)
+2020-11-09 20:17:19,737 [INFO] DbMcus:175 - Found 1761 MCUs (1722 are supported by CubeMX, 1738 are visible in CubeMX)
+2020-11-09 20:17:19,738 [INFO] ApiDb:201 - Load user favorites file C:\Users\kalom/.stm32cubemx/favorites.mcus.txt: 0 item(s)
+2020-11-09 20:17:19,738 [INFO] ApiDb:205 - User favorites MCUs=[]
+2020-11-09 20:17:19,739 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2020-11-09 20:17:19,909 [INFO] DbMcusDocs:81 - Found 601 MCUs documents
+2020-11-09 20:17:19,911 [INFO] ApiDb:226 - Save user favorites file C:\Users\kalom/.stm32cubemx/favorites.mcus.txt: 0 item(s)
+2020-11-09 20:17:19,911 [INFO] ApiDb:230 - User favorites MCUs=[]
+2020-11-09 20:17:19,911 [INFO] DbMcusXml:100 - Load MCU database from D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\/mcu/families.xml
+2020-11-09 20:17:20,297 [INFO] DbMcusJson:92 - JSON generation date=Thu Nov 05 17:05:07 CET 2020 (1604592307)
+2020-11-09 20:17:20,655 [INFO] DbMcus:175 - Found 1761 MCUs (1722 are supported by CubeMX, 1738 are visible in CubeMX)
+2020-11-09 20:17:20,656 [INFO] ApiDb:201 - Load user favorites file C:\Users\kalom/.stm32cubemx/favorites.mcus.txt: 0 item(s)
+2020-11-09 20:17:20,656 [INFO] ApiDb:205 - User favorites MCUs=[]
+2020-11-09 20:17:20,656 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2020-11-09 20:17:20,681 [INFO] DbBoardsDocs:145 - JSON generation date=Thu Nov 05 17:05:07 CET 2020 (1604592307)
+2020-11-09 20:17:20,920 [INFO] DbBoardsPdsc:94 - Found 23 items
+2020-11-09 20:17:20,935 [INFO] DbBoardsPdsc:94 - Found 9 items
+2020-11-09 20:17:20,952 [INFO] DbBoardsPdsc:94 - Found 29 items
+2020-11-09 20:17:20,959 [INFO] DbBoardsPdsc:94 - Found 1 items
+2020-11-09 20:17:20,979 [INFO] DbBoardsPdsc:94 - Found 44 items
+2020-11-09 20:17:20,996 [INFO] DbBoardsPdsc:94 - Found 40 items
+2020-11-09 20:17:21,005 [INFO] DbBoardsPdsc:94 - Found 2 items
+2020-11-09 20:17:21,015 [INFO] DbBoardsPdsc:94 - Found 4 items
+2020-11-09 20:17:21,020 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-11-09 20:17:21,021 [WARN] DbBoardsPdsc:258 - Board STM32H735G-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (WM8994ECS/R), n=1
+2020-11-09 20:17:21,024 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-11-09 20:17:21,024 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-11-09 20:17:21,024 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-11-09 20:17:21,035 [INFO] DbBoardsJson:85 - JSON generation date=Thu Nov 05 15:55:26 CET 2020 (1604588126)
+2020-11-09 20:17:21,039 [INFO] DbBoards:117 - Found 152 boards (149 are supported by CubeMX)
+2020-11-09 20:17:21,045 [INFO] DbBoardsDocs:145 - JSON generation date=Thu Nov 05 17:05:07 CET 2020 (1604592307)
+2020-11-09 20:17:21,058 [INFO] DbBoardsDocs:81 - Found 190 boards documents
+2020-11-09 20:17:21,059 [WARN] DbBoards:127 - board B-L462E-CELL1 has no document id list !
+2020-11-09 20:17:21,059 [WARN] DbBoards:127 - board B-L475E-IOT01A2 has no document id list !
+2020-11-09 20:17:21,060 [WARN] DbBoards:127 - board NUCLEO-G491RE has no document id list !
+2020-11-09 20:17:21,060 [WARN] DbBoards:127 - board NUCLEO-H743ZI2 has no document id list !
+2020-11-09 20:17:21,061 [WARN] DbBoards:127 - board NUCLEO-WB55RG has no document id list !
+2020-11-09 20:17:21,061 [WARN] DbBoards:127 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-11-09 20:17:21,061 [WARN] DbBoards:127 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-11-09 20:17:21,061 [WARN] DbBoards:127 - board STEVAL-BFA001V1B has no document id list !
+2020-11-09 20:17:21,061 [WARN] DbBoards:127 - board STEVAL-BFA001V2B has no document id list !
+2020-11-09 20:17:21,061 [WARN] DbBoards:127 - board STEVAL-IDP005V1 has no document id list !
+2020-11-09 20:17:21,061 [WARN] DbBoards:127 - board STEVAL-IDP005V2 has no document id list !
+2020-11-09 20:17:21,061 [WARN] DbBoards:127 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-11-09 20:17:21,061 [WARN] DbBoards:127 - board STEVAL-STWINKT1 has no document id list !
+2020-11-09 20:17:21,062 [WARN] DbBoards:127 - board STM32F401C-DISCO has no document id list !
+2020-11-09 20:17:21,062 [WARN] DbBoards:127 - board STM32F769I-DISC1 has no document id list !
+2020-11-09 20:17:21,062 [WARN] DbBoards:127 - board STM32G474E-EVAL1 has no document id list !
+2020-11-09 20:17:21,062 [WARN] DbBoards:127 - board STM32H743I-EVAL2 has no document id list !
+2020-11-09 20:17:21,062 [WARN] DbBoards:127 - board STM32H747I-DISC1 has no document id list !
+2020-11-09 20:17:21,063 [WARN] DbBoards:127 - board STM32H753I-EVAL2 has no document id list !
+2020-11-09 20:17:21,063 [WARN] DbBoards:127 - board STM32L-DISCOVERY has no document id list !
+2020-11-09 20:17:21,063 [WARN] DbBoards:127 - board STM32MP157A-DK1 has no document id list !
+2020-11-09 20:17:21,063 [WARN] DbBoards:127 - board STM32MP157F-EV1 has no document id list !
+2020-11-09 20:17:21,193 [ERROR] DbBoards:192 - No image file URL for board B-L462E-CELL1
+2020-11-09 20:17:23,262 [INFO] ApiDb:201 - Load user favorites file C:\Users\kalom/.stm32cubemx/favorites.boards.txt: 0 item(s)
+2020-11-09 20:17:23,262 [INFO] ApiDb:205 - User favorites Boards=[]
+2020-11-09 20:17:23,262 [INFO] DbBoards:206 - Set 0 / 0 favorites Boards
+2020-11-09 20:17:23,269 [INFO] DbBoardsDocs:81 - Found 380 boards documents
+2020-11-09 20:17:23,269 [INFO] ApiDb:226 - Save user favorites file C:\Users\kalom/.stm32cubemx/favorites.boards.txt: 0 item(s)
+2020-11-09 20:17:23,269 [INFO] ApiDb:230 - User favorites Boards=[]
+2020-11-09 20:17:23,270 [INFO] DbBoardsPdsc:94 - Found 23 items
+2020-11-09 20:17:23,271 [INFO] DbBoardsPdsc:94 - Found 9 items
+2020-11-09 20:17:23,273 [INFO] DbBoardsPdsc:94 - Found 29 items
+2020-11-09 20:17:23,274 [INFO] DbBoardsPdsc:94 - Found 1 items
+2020-11-09 20:17:23,276 [INFO] DbBoardsPdsc:94 - Found 44 items
+2020-11-09 20:17:23,279 [INFO] DbBoardsPdsc:94 - Found 40 items
+2020-11-09 20:17:23,280 [INFO] DbBoardsPdsc:94 - Found 2 items
+2020-11-09 20:17:23,281 [INFO] DbBoardsPdsc:94 - Found 4 items
+2020-11-09 20:17:23,282 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-11-09 20:17:23,282 [WARN] DbBoardsPdsc:258 - Board STM32H735G-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (WM8994ECS/R), n=1
+2020-11-09 20:17:23,283 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-11-09 20:17:23,283 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-11-09 20:17:23,283 [WARN] DbBoardsPdsc:258 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-11-09 20:17:23,289 [INFO] DbBoardsJson:85 - JSON generation date=Thu Nov 05 15:55:26 CET 2020 (1604588126)
+2020-11-09 20:17:23,292 [INFO] DbBoards:117 - Found 152 boards (149 are supported by CubeMX)
+2020-11-09 20:17:23,292 [WARN] DbBoards:127 - board B-L462E-CELL1 has no document id list !
+2020-11-09 20:17:23,292 [WARN] DbBoards:127 - board B-L475E-IOT01A2 has no document id list !
+2020-11-09 20:17:23,292 [WARN] DbBoards:127 - board NUCLEO-G491RE has no document id list !
+2020-11-09 20:17:23,293 [WARN] DbBoards:127 - board NUCLEO-H743ZI2 has no document id list !
+2020-11-09 20:17:23,293 [WARN] DbBoards:127 - board NUCLEO-WB55RG has no document id list !
+2020-11-09 20:17:23,293 [WARN] DbBoards:127 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-11-09 20:17:23,293 [WARN] DbBoards:127 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-11-09 20:17:23,293 [WARN] DbBoards:127 - board STEVAL-BFA001V1B has no document id list !
+2020-11-09 20:17:23,293 [WARN] DbBoards:127 - board STEVAL-BFA001V2B has no document id list !
+2020-11-09 20:17:23,293 [WARN] DbBoards:127 - board STEVAL-IDP005V1 has no document id list !
+2020-11-09 20:17:23,293 [WARN] DbBoards:127 - board STEVAL-IDP005V2 has no document id list !
+2020-11-09 20:17:23,293 [WARN] DbBoards:127 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-11-09 20:17:23,293 [WARN] DbBoards:127 - board STEVAL-STWINKT1 has no document id list !
+2020-11-09 20:17:23,294 [WARN] DbBoards:127 - board STM32F401C-DISCO has no document id list !
+2020-11-09 20:17:23,294 [WARN] DbBoards:127 - board STM32F769I-DISC1 has no document id list !
+2020-11-09 20:17:23,294 [WARN] DbBoards:127 - board STM32G474E-EVAL1 has no document id list !
+2020-11-09 20:17:23,294 [WARN] DbBoards:127 - board STM32H743I-EVAL2 has no document id list !
+2020-11-09 20:17:23,294 [WARN] DbBoards:127 - board STM32H747I-DISC1 has no document id list !
+2020-11-09 20:17:23,295 [WARN] DbBoards:127 - board STM32H753I-EVAL2 has no document id list !
+2020-11-09 20:17:23,295 [WARN] DbBoards:127 - board STM32L-DISCOVERY has no document id list !
+2020-11-09 20:17:23,295 [WARN] DbBoards:127 - board STM32MP157A-DK1 has no document id list !
+2020-11-09 20:17:23,295 [WARN] DbBoards:127 - board STM32MP157F-EV1 has no document id list !
+2020-11-09 20:17:23,320 [ERROR] DbBoards:192 - No image file URL for board B-L462E-CELL1
+2020-11-09 20:17:23,839 [INFO] ApiDb:201 - Load user favorites file C:\Users\kalom/.stm32cubemx/favorites.boards.txt: 0 item(s)
+2020-11-09 20:17:23,839 [INFO] ApiDb:205 - User favorites Boards=[]
+2020-11-09 20:17:23,839 [INFO] DbBoards:206 - Set 0 / 0 favorites Boards
+2020-11-09 20:17:24,025 [INFO] DbExamplesSqlite:156 - SQLite db open (C:\Users\kalom\.stmcufinder\plugins\mcufinder\mcu\cube-finder-db.db)
+2020-11-09 20:17:24,346 [INFO] DbExamplesSqlite:447 - Ignored 0 examples not supported by CubeIDE
+2020-11-09 20:17:24,346 [INFO] DbExamplesSqlite:448 - Found 4380 examples active
+2020-11-09 20:17:24,346 [INFO] DbExamplesSqlite:449 - Found 128 examples obsolete
+2020-11-09 20:17:24,346 [INFO] DbExamplesSqlite:450 - Found 250 examples under development
+2020-11-09 20:17:24,346 [INFO] DbExamplesSqlite:451 - Found 123 examples not building
+2020-11-09 20:17:24,362 [INFO] DbExamplesSqlite:130 - SQLite Data Model version=2.1
+2020-11-09 20:17:24,362 [INFO] DbExamplesSqlite:131 - SQLite Configuration version=2.11
+2020-11-09 20:17:24,362 [INFO] DbExamplesSqlite:132 - SQLite generation date=2020-10-08 (1602147613)
+2020-11-09 20:17:24,362 [INFO] DbExamplesSqlite:133 - SQLite FW Pack versions=[STM32Cube_FW_F4_V1.25.1, STM32Cube_FW_F7_V1.16.0, STM32Cube_FW_G0_V1.3.0, STM32Cube_FW_G4_V1.3.0, STM32Cube_FW_H7_V1.8.0, STM32Cube_FW_L5_V1.3.1, STM32Cube_FW_WB_V1.9.0, STM32Cube_FW_WL_V1.0.0RC1]
+2020-11-09 20:17:24,363 [INFO] DbExamples:123 - Found 4503 examples
+2020-11-09 20:17:24,636 [ERROR] DbExamples:199 - Found 297 examples with invalid data (board or MCU)
+2020-11-09 20:17:24,636 [INFO] DbExamples:215 - Found 58 boards with related examples
+2020-11-09 20:17:24,643 [INFO] DbExamples:228 - Found 44 MCUs with related examples
+2020-11-09 20:17:24,655 [INFO] ApiDb:192 - User favorites file not found: C:\Users\kalom/.stm32cubemx/favorites.examples.txt
+2020-11-09 20:17:24,655 [INFO] DbExamples:249 - Set 0 / 0 favorites Examples
+2020-11-09 20:17:25,166 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-11-09 20:17:25,472 [INFO] CrossSelectorPresenter:1330 - Cross Selector saved comparison directory: C:\Users\kalom\.stmcufinder\plugins\mcufinder\mcu\cs_comparisons_mx
+2020-11-09 20:17:25,499 [INFO] MultiScanPanel:193 - Auto-refresh data requested => check proxy status ongoing
+2020-11-09 20:17:25,500 [INFO] FinderPluginLoader:87 - Searching for filters in installed packs
+2020-11-09 20:17:26,047 [INFO] LoadUrlFilesThread:162 - End of LoadServerUrlFiles without Thread
+2020-11-09 20:17:26,071 [INFO] DetailPanel:331 - Set advertising image to C:/Users/kalom/STM32Cube/Repository/\stm32cubemx-promo_image.jpg
+2020-11-09 20:17:26,303 [INFO] McuFilterPanel:245 - Update 0 favorites MCUs
+2020-11-09 20:17:55,388 [INFO] McuResultTable:776 - Mark MCU STM32F767ZITx as favorite
+2020-11-09 20:18:33,556 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.16.0
+2020-11-09 20:18:34,394 [INFO] MainUpdater:2268 - connection check result : 10
+2020-11-09 20:18:34,394 [INFO] MainUpdater:2268 - connection check result : 10
+2020-11-09 20:18:34,495 [INFO] MicroXplorer:384 - Change Database Path : 
+2020-11-09 20:18:34,496 [INFO] MicroXplorer:414 - Change Database Version : DB.6.0.0
+2020-11-09 20:18:34,496 [WARN] ThirdParty:775 - waiting for thirdparty lock release [close project]
+2020-11-09 20:18:34,496 [INFO] ThirdParty:777 - entering critical section [close project]
+2020-11-09 20:18:34,496 [INFO] ThirdParty:790 - exiting critical section [close project]
+2020-11-09 20:18:34,498 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2020-11-09 20:18:34,499 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 721343736 Bytes (945815552)
+2020-11-09 20:18:34,499 [INFO] MicroXplorer:384 - Change Database Path : 
+2020-11-09 20:18:34,500 [INFO] MicroXplorer:414 - Change Database Version : DB.6.0.0
+2020-11-09 20:18:34,500 [INFO] OpenFileManager:274 - Change cursor
+2020-11-09 20:18:38,868 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2020-11-09 20:18:38,868 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2020-11-09 20:18:38,868 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2020-11-09 20:18:38,919 [INFO] RtosManager:456 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2020-11-09 20:18:38,919 [INFO] RtosManager:456 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2020-11-09 20:18:38,919 [INFO] RtosManager:456 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2020-11-09 20:18:38,919 [INFO] RtosManager:456 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2020-11-09 20:18:38,919 [WARN] ModelIntegratedComponent:188 - Missing modes for component 1604054449884
+2020-11-09 20:18:39,260 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 565452240 Bytes (945815552)
+2020-11-09 20:18:39,262 [WARN] ThirdParty:741 - waiting for thirdparty lock release [change project]
+2020-11-09 20:18:39,262 [INFO] ThirdParty:743 - entering critical section [change project]
+2020-11-09 20:18:39,262 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2020-11-09 20:18:39,262 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2020-11-09 20:18:39,262 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2020-11-09 20:18:39,262 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2020-11-09 20:18:39,263 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2020-11-09 20:18:39,263 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2020-11-09 20:18:39,263 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2020-11-09 20:18:39,263 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2020-11-09 20:18:39,263 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2020-11-09 20:18:39,263 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2020-11-09 20:18:39,263 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2020-11-09 20:18:39,263 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2020-11-09 20:18:39,263 [INFO] ThirdParty:968 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2020-11-09 20:18:39,263 [INFO] ThirdParty:749 - exiting critical section [change project]
+2020-11-09 20:18:39,625 [INFO] PinOutPanel:1418 - setPackage(No Configuration,No Configuration)
+2020-11-09 20:18:39,626 [INFO] PinOutPanel:1418 - setPackage(STM32F767ZITx,LQFP144)
+2020-11-09 20:18:40,408 [INFO] UtilMem:74 - Before build in PCC Used Memory: 714442200 Bytes (945815552)
+2020-11-09 20:18:41,003 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/kalom/.stm32cubemx/plugins/power
+2020-11-09 20:18:41,031 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/kalom/.stm32cubemx/plugins/power
+2020-11-09 20:18:41,063 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/kalom/.stm32cubemx/plugins/power
+2020-11-09 20:18:41,069 [INFO] SharedServices:71 - Folder for power plug-in: C:/Users/kalom/.stm32cubemx/plugins/power
+2020-11-09 20:18:41,294 [INFO] UtilMem:74 - After build in PCC Used Memory: 775781856 Bytes (945815552)
+2020-11-09 20:18:41,310 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,310 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,310 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,310 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,310 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,310 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,310 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,311 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,311 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,311 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,311 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,311 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,311 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,311 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,311 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,311 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,311 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,312 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,312 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,312 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,312 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,312 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,312 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,312 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,312 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,312 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,313 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,313 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,313 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,313 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,313 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,313 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,313 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,314 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,314 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,314 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,314 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,314 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,314 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,314 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,315 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,315 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,315 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,315 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,315 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,315 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,315 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,315 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,315 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,316 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,316 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,316 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,316 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,316 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,316 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,316 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,316 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,316 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,317 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,317 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,317 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,317 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,317 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,317 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,317 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,317 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,318 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,318 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,318 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,318 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,318 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,318 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,318 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,318 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,318 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,319 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,319 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,319 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,319 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-11-09 20:18:41,495 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2020-11-09 20:18:41,663 [INFO] OpenFileManager:294 - Restore cursor
+2020-11-09 20:18:42,089 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 513280720 Bytes (945815552)
+2020-11-09 20:18:42,156 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 523766480 Bytes (945815552)
+2020-11-09 20:18:42,462 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2020-11-09 20:18:42,462 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2020-11-09 20:18:42,462 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2020-11-09 20:18:42,462 [INFO] CodeGenerator:622 - code generatio: config db path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2020-11-09 20:18:42,786 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp_save
+2020-11-09 20:18:43,160 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp
+2020-11-09 20:18:43,555 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 20:18:43,574 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp_save
+2020-11-09 20:18:43,633 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp
+2020-11-09 20:18:43,651 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c_save
+2020-11-09 20:18:43,737 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c
+2020-11-09 20:18:43,764 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h_save
+2020-11-09 20:18:43,803 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h
+2020-11-09 20:18:43,851 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c_save
+2020-11-09 20:18:43,930 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c
+2020-11-09 20:18:43,947 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp_save
+2020-11-09 20:18:43,982 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp
+2020-11-09 20:18:44,076 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-11-09 20:18:44,137 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h
+2020-11-09 20:18:44,231 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h_save
+2020-11-09 20:18:44,277 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h
+2020-11-09 20:18:44,292 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c_save
+2020-11-09 20:18:44,436 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c
+2020-11-09 20:18:44,984 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 163mS.
+2020-11-09 20:18:44,995 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2020-11-09 20:18:45,189 [INFO] ConfigFileManager:1183 - The Die is : DIE451
+2020-11-09 20:18:45,250 [INFO] ApiDbMcu:456 - Load IP Config File for FATFS
+2020-11-09 20:18:45,312 [INFO] ApiDbMcu:456 - Load IP Config File for FREERTOS
+2020-11-09 20:18:45,328 [INFO] ApiDbMcu:456 - Load IP Config File for LIBJPEG
+2020-11-09 20:18:45,397 [INFO] ApiDbMcu:456 - Load IP Config File for LWIP
+2020-11-09 20:18:45,457 [INFO] ApiDbMcu:456 - Load IP Config File for MBEDTLS
+2020-11-09 20:18:45,498 [INFO] ApiDbMcu:456 - Load IP Config File for PDM2PCM
+2020-11-09 20:18:45,542 [INFO] ApiDbMcu:456 - Load IP Config File for USB_DEVICE
+2020-11-09 20:18:45,589 [INFO] ApiDbMcu:456 - Load IP Config File for USB_HOST
+2020-11-09 20:18:53,695 [ERROR] root:96 - SUCCESS
+2020-11-09 20:18:53,755 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 8760mS.
+2020-11-09 20:18:53,755 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 20:18:53,756 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 20:18:54,429 [INFO] ApiDb:226 - Save user favorites file C:\Users\kalom/.stm32cubeide/favorites.mcus.txt: 1 item(s)
+2020-11-09 20:18:54,430 [INFO] ApiDb:230 - User favorites MCUs=[STM32F767ZITx]
+2020-11-09 20:20:31,719 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-11-09 20:20:47,748 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-11-09 20:20:47,850 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-11-09 20:20:51,406 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-11-09 20:20:51,507 [INFO] NvicIntPanel:90 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2020-11-09 20:48:06,305 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 743305016 Bytes (1061158912)
+2020-11-09 20:48:14,114 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 865988408 Bytes (1061158912)
+2020-11-09 20:48:14,327 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2020-11-09 20:48:14,327 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2020-11-09 20:48:14,327 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2020-11-09 20:48:14,327 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USART
+2020-11-09 20:48:14,327 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: TIM1_8F77
+2020-11-09 20:48:14,328 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: GPIO
+2020-11-09 20:48:14,328 [INFO] CodeGenerator:622 - code generatio: config db path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2020-11-09 20:48:14,502 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp_save
+2020-11-09 20:48:14,543 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp
+2020-11-09 20:48:14,664 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp_save
+2020-11-09 20:48:14,704 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp
+2020-11-09 20:48:14,918 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 20:48:14,921 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp_save
+2020-11-09 20:48:14,953 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp
+2020-11-09 20:48:14,954 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 20:48:14,955 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 20:48:14,961 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c_save
+2020-11-09 20:48:15,031 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c
+2020-11-09 20:48:15,035 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h_save
+2020-11-09 20:48:15,070 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h
+2020-11-09 20:48:15,077 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c_save
+2020-11-09 20:48:15,134 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c
+2020-11-09 20:48:15,137 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp_save
+2020-11-09 20:48:15,168 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp
+2020-11-09 20:48:15,173 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-11-09 20:48:15,215 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h
+2020-11-09 20:48:15,226 [WARN] IPConfigManager:2884 - IP not found : TIM
+2020-11-09 20:48:15,226 [WARN] IPConfigManager:2884 - IP not found : gpio
+2020-11-09 20:48:15,226 [WARN] CodeGenerator:2866 - IP not found : TIM
+2020-11-09 20:48:15,226 [WARN] CodeGenerator:2866 - IP not found : gpio
+2020-11-09 20:48:15,231 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h_save
+2020-11-09 20:48:15,268 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h
+2020-11-09 20:48:15,274 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c_save
+2020-11-09 20:48:15,337 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c
+2020-11-09 20:48:15,664 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 57mS.
+2020-11-09 20:48:15,666 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2020-11-09 20:48:15,829 [INFO] ConfigFileManager:1183 - The Die is : DIE451
+2020-11-09 20:48:17,362 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 1696mS.
+2020-11-09 20:48:17,363 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 20:48:17,364 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 20:49:15,852 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 748794296 Bytes (1073741824)
+2020-11-09 20:49:18,219 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 830583224 Bytes (1073741824)
+2020-11-09 20:49:18,367 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2020-11-09 20:49:18,367 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2020-11-09 20:49:18,367 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2020-11-09 20:49:18,367 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USART
+2020-11-09 20:49:18,367 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: TIM1_8F77
+2020-11-09 20:49:18,367 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: GPIO
+2020-11-09 20:49:18,368 [INFO] CodeGenerator:622 - code generatio: config db path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2020-11-09 20:49:18,509 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp_save
+2020-11-09 20:49:18,539 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp
+2020-11-09 20:49:18,547 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp_save
+2020-11-09 20:49:18,579 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp
+2020-11-09 20:49:18,610 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 20:49:18,613 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp_save
+2020-11-09 20:49:18,643 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp
+2020-11-09 20:49:18,644 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 20:49:18,645 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 20:49:18,650 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c_save
+2020-11-09 20:49:18,699 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c
+2020-11-09 20:49:18,703 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h_save
+2020-11-09 20:49:18,736 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h
+2020-11-09 20:49:18,743 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c_save
+2020-11-09 20:49:18,797 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c
+2020-11-09 20:49:18,800 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp_save
+2020-11-09 20:49:18,831 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp
+2020-11-09 20:49:18,836 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-11-09 20:49:18,888 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h
+2020-11-09 20:49:18,899 [WARN] IPConfigManager:2884 - IP not found : TIM
+2020-11-09 20:49:18,899 [WARN] IPConfigManager:2884 - IP not found : gpio
+2020-11-09 20:49:18,900 [WARN] CodeGenerator:2866 - IP not found : TIM
+2020-11-09 20:49:18,900 [WARN] CodeGenerator:2866 - IP not found : gpio
+2020-11-09 20:49:18,904 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h_save
+2020-11-09 20:49:18,940 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h
+2020-11-09 20:49:18,946 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c_save
+2020-11-09 20:49:19,000 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c
+2020-11-09 20:49:19,452 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 51mS.
+2020-11-09 20:49:19,455 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2020-11-09 20:49:19,655 [INFO] ConfigFileManager:1183 - The Die is : DIE451
+2020-11-09 20:49:20,407 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 952mS.
+2020-11-09 20:49:20,408 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 20:49:20,409 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 21:08:26,412 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 571922768 Bytes (1073741824)
+2020-11-09 21:08:26,548 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2020-11-09 21:08:26,548 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2020-11-09 21:08:26,548 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2020-11-09 21:08:26,549 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USART
+2020-11-09 21:08:26,549 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: TIM1_8F77
+2020-11-09 21:08:26,549 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: GPIO
+2020-11-09 21:08:26,549 [INFO] CodeGenerator:622 - code generatio: config db path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2020-11-09 21:08:26,701 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp_save
+2020-11-09 21:08:26,829 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp
+2020-11-09 21:08:26,838 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp_save
+2020-11-09 21:08:26,870 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp
+2020-11-09 21:08:26,897 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:08:26,901 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp_save
+2020-11-09 21:08:26,934 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp
+2020-11-09 21:08:26,935 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:08:26,936 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:08:26,941 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c_save
+2020-11-09 21:08:27,104 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c
+2020-11-09 21:08:27,108 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h_save
+2020-11-09 21:08:27,146 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h
+2020-11-09 21:08:27,154 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c_save
+2020-11-09 21:08:27,208 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c
+2020-11-09 21:08:27,212 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp_save
+2020-11-09 21:08:27,247 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp
+2020-11-09 21:08:27,252 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-11-09 21:08:27,314 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h
+2020-11-09 21:08:27,323 [WARN] IPConfigManager:2884 - IP not found : TIM
+2020-11-09 21:08:27,323 [WARN] IPConfigManager:2884 - IP not found : gpio
+2020-11-09 21:08:27,323 [WARN] CodeGenerator:2866 - IP not found : TIM
+2020-11-09 21:08:27,323 [WARN] CodeGenerator:2866 - IP not found : gpio
+2020-11-09 21:08:27,328 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h_save
+2020-11-09 21:08:27,363 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h
+2020-11-09 21:08:27,369 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c_save
+2020-11-09 21:08:27,427 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c
+2020-11-09 21:08:27,771 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 74mS.
+2020-11-09 21:08:27,773 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2020-11-09 21:08:27,935 [INFO] ConfigFileManager:1183 - The Die is : DIE451
+2020-11-09 21:08:29,075 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 1302mS.
+2020-11-09 21:08:29,076 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 21:08:29,077 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 21:16:02,017 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 895206936 Bytes (1073741824)
+2020-11-09 21:16:13,113 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 554220616 Bytes (1073741824)
+2020-11-09 21:16:13,245 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2020-11-09 21:16:13,245 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2020-11-09 21:16:13,245 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2020-11-09 21:16:13,245 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USART
+2020-11-09 21:16:13,245 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: TIM1_8F77
+2020-11-09 21:16:13,245 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: GPIO
+2020-11-09 21:16:13,245 [INFO] CodeGenerator:622 - code generatio: config db path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2020-11-09 21:16:13,386 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp_save
+2020-11-09 21:16:13,416 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp
+2020-11-09 21:16:13,428 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp_save
+2020-11-09 21:16:13,460 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp
+2020-11-09 21:16:13,498 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:16:13,501 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp_save
+2020-11-09 21:16:13,530 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp
+2020-11-09 21:16:13,531 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:16:13,532 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:16:13,537 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c_save
+2020-11-09 21:16:13,578 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c
+2020-11-09 21:16:13,582 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h_save
+2020-11-09 21:16:13,615 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h
+2020-11-09 21:16:13,621 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c_save
+2020-11-09 21:16:13,675 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c
+2020-11-09 21:16:13,678 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp_save
+2020-11-09 21:16:13,707 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp
+2020-11-09 21:16:13,712 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-11-09 21:16:13,752 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h
+2020-11-09 21:16:13,760 [WARN] IPConfigManager:2884 - IP not found : TIM
+2020-11-09 21:16:13,761 [WARN] IPConfigManager:2884 - IP not found : gpio
+2020-11-09 21:16:13,761 [WARN] CodeGenerator:2866 - IP not found : TIM
+2020-11-09 21:16:13,761 [WARN] CodeGenerator:2866 - IP not found : gpio
+2020-11-09 21:16:13,765 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h_save
+2020-11-09 21:16:13,801 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h
+2020-11-09 21:16:13,806 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c_save
+2020-11-09 21:16:13,909 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c
+2020-11-09 21:16:14,314 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 44mS.
+2020-11-09 21:16:14,316 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2020-11-09 21:16:14,477 [INFO] ConfigFileManager:1183 - The Die is : DIE451
+2020-11-09 21:16:15,247 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 931mS.
+2020-11-09 21:16:15,248 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 21:16:15,249 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 21:16:43,702 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 344915248 Bytes (1073741824)
+2020-11-09 21:16:48,018 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 423558448 Bytes (1073741824)
+2020-11-09 21:16:48,150 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2020-11-09 21:16:48,150 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2020-11-09 21:16:48,150 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2020-11-09 21:16:48,150 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USART
+2020-11-09 21:16:48,150 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: TIM1_8F77
+2020-11-09 21:16:48,151 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: TIM1_8F77
+2020-11-09 21:16:48,151 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: GPIO
+2020-11-09 21:16:48,151 [INFO] CodeGenerator:622 - code generatio: config db path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2020-11-09 21:16:48,295 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp_save
+2020-11-09 21:16:48,325 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp
+2020-11-09 21:16:48,336 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp_save
+2020-11-09 21:16:48,367 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp
+2020-11-09 21:16:48,417 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:16:48,419 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp_save
+2020-11-09 21:16:48,450 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp
+2020-11-09 21:16:48,451 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:16:48,453 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:16:48,458 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c_save
+2020-11-09 21:16:48,500 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c
+2020-11-09 21:16:48,504 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h_save
+2020-11-09 21:16:48,537 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h
+2020-11-09 21:16:48,543 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c_save
+2020-11-09 21:16:48,596 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c
+2020-11-09 21:16:48,599 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp_save
+2020-11-09 21:16:48,628 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp
+2020-11-09 21:16:48,632 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-11-09 21:16:48,670 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h
+2020-11-09 21:16:48,679 [WARN] IPConfigManager:2884 - IP not found : TIM
+2020-11-09 21:16:48,679 [WARN] IPConfigManager:2884 - IP not found : gpio
+2020-11-09 21:16:48,679 [WARN] CodeGenerator:2866 - IP not found : TIM
+2020-11-09 21:16:48,679 [WARN] CodeGenerator:2866 - IP not found : gpio
+2020-11-09 21:16:48,683 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h_save
+2020-11-09 21:16:48,717 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h
+2020-11-09 21:16:48,722 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c_save
+2020-11-09 21:16:48,780 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c
+2020-11-09 21:16:49,147 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 47mS.
+2020-11-09 21:16:49,149 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2020-11-09 21:16:49,310 [INFO] ConfigFileManager:1183 - The Die is : DIE451
+2020-11-09 21:16:50,567 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 1418mS.
+2020-11-09 21:16:50,568 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 21:16:50,569 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 21:40:17,245 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 806764880 Bytes (1073741824)
+2020-11-09 21:40:22,215 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 821746120 Bytes (1073741824)
+2020-11-09 21:40:23,369 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 568510688 Bytes (1073741824)
+2020-11-09 21:40:23,551 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: SYS
+2020-11-09 21:40:23,551 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: RCC
+2020-11-09 21:40:23,551 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: NVIC
+2020-11-09 21:40:23,551 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: USART
+2020-11-09 21:40:23,551 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: TIM1_8F77
+2020-11-09 21:40:23,551 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: TIM1_8F77
+2020-11-09 21:40:23,551 [INFO] BlockDiagram:2729 - set Specific Code input for plugin: GPIO
+2020-11-09 21:40:23,551 [INFO] CodeGenerator:622 - code generatio: config db path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.0.1.202008101643\\db\
+2020-11-09 21:40:23,729 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp_save
+2020-11-09 21:40:23,759 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\license.tmp
+2020-11-09 21:40:23,771 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp_save
+2020-11-09 21:40:23,802 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\gpio.tmp
+2020-11-09 21:40:23,847 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:40:23,849 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp_save
+2020-11-09 21:40:23,878 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\cortex.tmp
+2020-11-09 21:40:23,879 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:40:23,880 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-11-09 21:40:23,885 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c_save
+2020-11-09 21:40:23,929 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_it.c
+2020-11-09 21:40:23,933 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h_save
+2020-11-09 21:40:23,965 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_it.h
+2020-11-09 21:40:23,972 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c_save
+2020-11-09 21:40:24,025 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\stm32f7xx_hal_msp.c
+2020-11-09 21:40:24,027 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp_save
+2020-11-09 21:40:24,057 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\MXTmpFiles\system.tmp
+2020-11-09 21:40:24,061 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-11-09 21:40:24,101 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\stm32f7xx_hal_conf.h
+2020-11-09 21:40:24,110 [WARN] IPConfigManager:2884 - IP not found : TIM
+2020-11-09 21:40:24,110 [WARN] IPConfigManager:2884 - IP not found : gpio
+2020-11-09 21:40:24,110 [WARN] CodeGenerator:2866 - IP not found : TIM
+2020-11-09 21:40:24,110 [WARN] CodeGenerator:2866 - IP not found : gpio
+2020-11-09 21:40:24,114 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h_save
+2020-11-09 21:40:24,150 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Inc\main.h
+2020-11-09 21:40:24,156 [INFO] CodeEngine:188 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c_save
+2020-11-09 21:40:24,294 [INFO] CodeEngine:206 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_timer_game\Core\Src\main.c
+2020-11-09 21:40:24,619 [INFO] ProjectBuilder:2168 - Time for Copy HAL[1] : 56mS.
+2020-11-09 21:40:24,620 [INFO] ProjectBuilder:2988 - Project Generator version: 3.10.0-B14
+2020-11-09 21:40:24,781 [INFO] ConfigFileManager:1183 - The Die is : DIE451
+2020-11-09 21:40:25,763 [INFO] ProjectBuilder:3155 - Time for Generating toolchain IDE Files: 1143mS.
+2020-11-09 21:40:25,763 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-09 21:40:25,764 [INFO] ProjectBuilder:2044 - Time for Copy CMSIS : 0mS.
+2020-11-10 16:46:39,370 [INFO] Activator:178 - 
+
+
+2020-11-10 16:46:39,403 [INFO] Activator:179 - !SESSION log4j initialized
+2020-11-17 09:28:11,171 [INFO] Activator:178 - 
+
+
+2020-11-17 09:28:11,192 [INFO] Activator:179 - !SESSION log4j initialized
+2020-12-07 21:03:54,354 [INFO] Activator:170 - 
+
+
+2020-12-07 21:03:55,085 [INFO] Activator:171 - !SESSION log4j initialized
+2020-12-07 21:05:48,032 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-12-07 21:05:48,236 [INFO] ApplicationProperties:181 - Using Application install path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557
+2020-12-07 21:05:48,245 [INFO] DbMcusXml:71 - Set database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/mcu/
+2020-12-07 21:05:48,248 [INFO] DbBoardsPdsc:57 - Set plugin database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/boardmanager/
+2020-12-07 21:05:48,249 [INFO] DbMcus:259 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/mcufinder/images/
+2020-12-07 21:05:48,249 [INFO] DbBoards:265 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/mcufinder/images/
+2020-12-07 21:05:48,251 [INFO] DbExamples:329 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/mcufinder/images/
+2020-12-07 21:05:48,255 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,256 [INFO] DbMcusJson:63 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,257 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,258 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,275 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-12-07 21:05:48,278 [INFO] DbExamplesSqlite:699 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,360 [INFO] RulesReader:52 - Compatibility file has been processed (228 Rules)
+2020-12-07 21:05:48,421 [INFO] MicroXplorer:565 - Detected Java Version = 1.8.0_202
+2020-12-07 21:05:48,421 [INFO] DbMcusXml:71 - Set database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/mcu/
+2020-12-07 21:05:48,422 [INFO] DbBoardsPdsc:57 - Set plugin database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/boardmanager/
+2020-12-07 21:05:48,422 [INFO] DbMcus:259 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/mcufinder/images/
+2020-12-07 21:05:48,422 [INFO] DbBoards:265 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/mcufinder/images/
+2020-12-07 21:05:48,423 [INFO] DbExamples:329 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/mcufinder/images/
+2020-12-07 21:05:48,546 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,546 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,546 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,546 [INFO] DbMcusJson:63 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,547 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,547 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,547 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,547 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,547 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,547 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,548 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-12-07 21:05:48,548 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,548 [INFO] DbExamplesSqlite:699 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,597 [INFO] MainPanel:190 - HeapMemory: 523239424
+2020-12-07 21:05:48,644 [INFO] DbMcusXml:71 - Set database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/mcu/
+2020-12-07 21:05:48,645 [INFO] DbBoardsPdsc:57 - Set plugin database path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/boardmanager/
+2020-12-07 21:05:48,645 [INFO] DbMcus:259 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/mcufinder/images/
+2020-12-07 21:05:48,645 [INFO] DbBoards:265 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/mcufinder/images/
+2020-12-07 21:05:48,645 [INFO] DbExamples:329 - Set plugin images path to: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/plugins/mcufinder/images/
+2020-12-07 21:05:48,645 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,646 [INFO] DbMcusDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,646 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,646 [INFO] DbMcusJson:63 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,646 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,646 [INFO] DbBoardsDocs:112 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,647 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,647 [INFO] DbBoardsJson:56 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,647 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,647 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,647 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/cs/
+2020-12-07 21:05:48,647 [WARN] DbFile:36 - Overriding database path with different value: C:\Users\kalom\.stmcufinder\plugins\mcufinder/ => C:\Users\kalom\.stmcufinder\plugins\mcufinder
+2020-12-07 21:05:48,648 [INFO] DbExamplesSqlite:699 - Set database path to: C:\Users\kalom\.stmcufinder\plugins\mcufinder//mcu/
+2020-12-07 21:05:48,659 [INFO] ApplicationProperties:181 - Using Application install path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557
+2020-12-07 21:05:48,661 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, ]
+2020-12-07 21:05:48,662 [INFO] PluginManage:292 - Check plugin analytics
+2020-12-07 21:05:53,314 [INFO] AnalyticsPlugin:225 - Accepted Software Licenses: 
+2020-12-07 21:05:53,315 [INFO] AnalyticsPlugin:227 - Accepted CMSIS Pack Licenses: 
+2020-12-07 21:05:53,315 [INFO] AnalyticsPlugin:229 - Accepted Firmware Licenses: 
+2020-12-07 21:05:53,316 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-12-07 21:05:53,316 [INFO] PluginManage:292 - Check plugin clock
+2020-12-07 21:05:53,326 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-12-07 21:05:53,326 [INFO] PluginManage:292 - Check plugin ddr
+2020-12-07 21:05:53,327 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-12-07 21:05:53,327 [INFO] PluginManage:292 - Check plugin filemanager
+2020-12-07 21:05:53,425 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-12-07 21:05:53,425 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-12-07 21:05:53,432 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-12-07 21:05:53,432 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-12-07 21:05:53,439 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-12-07 21:05:53,439 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-12-07 21:05:53,458 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-12-07 21:05:53,458 [INFO] PluginManage:292 - Check plugin power
+2020-12-07 21:05:53,465 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-12-07 21:05:53,465 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-12-07 21:05:53,479 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-12-07 21:05:53,480 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-12-07 21:05:53,558 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-12-07 21:05:53,558 [WARN] IntegrityCheckThread:59 - waiting for thirdparty lock release [integrity check]
+2020-12-07 21:05:53,558 [INFO] PluginManage:292 - Check plugin tools
+2020-12-07 21:05:53,559 [INFO] IntegrityCheckThread:61 - entering critical section [integrity check]
+2020-12-07 21:05:53,559 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [1/15]
+2020-12-07 21:05:53,561 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-12-07 21:05:53,561 [INFO] PluginManage:292 - Check plugin tutovideos
+2020-12-07 21:05:53,822 [INFO] PluginManage:342 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2020-12-07 21:05:53,822 [INFO] PluginManage:292 - Check plugin updater
+2020-12-07 21:05:53,832 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-12-07 21:05:53,832 [INFO] PluginManage:265 - PluginManage : Loaded plugins [13]
+2020-12-07 21:05:53,961 [INFO] PinOutPanel:1434 - setPackage(No Configuration,No Configuration)
+2020-12-07 21:05:54,030 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,031 [INFO] PluginManager:203 - loadIPPluginJar : add adc
+2020-12-07 21:05:54,033 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,033 [INFO] PluginManager:203 - loadIPPluginJar : add aes
+2020-12-07 21:05:54,035 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,035 [INFO] PluginManager:203 - loadIPPluginJar : add can
+2020-12-07 21:05:54,037 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,037 [INFO] PluginManager:203 - loadIPPluginJar : add comp
+2020-12-07 21:05:54,039 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,039 [INFO] PluginManager:203 - loadIPPluginJar : add cryp
+2020-12-07 21:05:54,041 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,041 [INFO] PluginManager:203 - loadIPPluginJar : add dfsdm
+2020-12-07 21:05:54,046 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,046 [INFO] PluginManager:203 - loadIPPluginJar : add dma
+2020-12-07 21:05:54,048 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,048 [INFO] PluginManager:203 - loadIPPluginJar : add fatfs
+2020-12-07 21:05:54,052 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,052 [INFO] PluginManager:203 - loadIPPluginJar : add fmc
+2020-12-07 21:05:54,057 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,058 [INFO] PluginManager:203 - loadIPPluginJar : add freertos
+2020-12-07 21:05:54,059 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,059 [INFO] PluginManager:203 - loadIPPluginJar : add genericplugin
+2020-12-07 21:05:54,061 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,061 [INFO] PluginManager:203 - loadIPPluginJar : add gfxmmu
+2020-12-07 21:05:54,065 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,065 [INFO] PluginManager:203 - loadIPPluginJar : add gic
+2020-12-07 21:05:54,068 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,068 [INFO] PluginManager:203 - loadIPPluginJar : add gpio
+2020-12-07 21:05:54,069 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,070 [INFO] PluginManager:203 - loadIPPluginJar : add gtzc
+2020-12-07 21:05:54,071 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,071 [INFO] PluginManager:203 - loadIPPluginJar : add hash
+2020-12-07 21:05:54,073 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,073 [INFO] PluginManager:203 - loadIPPluginJar : add i2c
+2020-12-07 21:05:54,075 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,075 [INFO] PluginManager:203 - loadIPPluginJar : add i2s
+2020-12-07 21:05:54,077 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,078 [INFO] PluginManager:203 - loadIPPluginJar : add ipddr
+2020-12-07 21:05:54,079 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,080 [INFO] PluginManager:203 - loadIPPluginJar : add lorawan
+2020-12-07 21:05:54,081 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,081 [INFO] PluginManager:203 - loadIPPluginJar : add ltdc
+2020-12-07 21:05:54,083 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,084 [INFO] PluginManager:203 - loadIPPluginJar : add mdma
+2020-12-07 21:05:54,086 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,086 [INFO] PluginManager:203 - loadIPPluginJar : add nvic
+2020-12-07 21:05:54,088 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,088 [INFO] PluginManager:203 - loadIPPluginJar : add opamp
+2020-12-07 21:05:54,090 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,090 [INFO] PluginManager:203 - loadIPPluginJar : add openamp
+2020-12-07 21:05:54,092 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,092 [INFO] PluginManager:203 - loadIPPluginJar : add pdm2pcm
+2020-12-07 21:05:54,096 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,099 [INFO] PluginManager:203 - loadIPPluginJar : add plateformsettings
+2020-12-07 21:05:54,100 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,100 [INFO] PluginManager:203 - loadIPPluginJar : add quadspi
+2020-12-07 21:05:54,102 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,102 [INFO] PluginManager:203 - loadIPPluginJar : add resmgrutility
+2020-12-07 21:05:54,104 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,105 [INFO] PluginManager:203 - loadIPPluginJar : add sai
+2020-12-07 21:05:54,106 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,106 [INFO] PluginManager:203 - loadIPPluginJar : add spi
+2020-12-07 21:05:54,109 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,109 [INFO] PluginManager:203 - loadIPPluginJar : add stm32_wpan
+2020-12-07 21:05:54,110 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,111 [INFO] PluginManager:203 - loadIPPluginJar : add tim
+2020-12-07 21:05:54,132 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,132 [INFO] PluginManager:203 - loadIPPluginJar : add touchsensing
+2020-12-07 21:05:54,134 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,134 [INFO] PluginManager:203 - loadIPPluginJar : add tracer_emb
+2020-12-07 21:05:54,136 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,136 [INFO] PluginManager:203 - loadIPPluginJar : add ts
+2020-12-07 21:05:54,137 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,138 [INFO] PluginManager:203 - loadIPPluginJar : add tsc
+2020-12-07 21:05:54,139 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,139 [INFO] PluginManager:203 - loadIPPluginJar : add ucpd
+2020-12-07 21:05:54,142 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:05:54,142 [INFO] PluginManager:203 - loadIPPluginJar : add usart
+2020-12-07 21:05:54,398 [FATAL] Updater:284 - Updater called before beeing initialized
+2020-12-07 21:05:54,478 [FATAL] Updater:284 - Updater called before beeing initialized
+2020-12-07 21:05:54,507 [WARN] DetailPanel:347 - Failed to get advertising image, set to default
+2020-12-07 21:05:54,510 [FATAL] Updater:284 - Updater called before beeing initialized
+2020-12-07 21:05:54,510 [WARN] DetailPanel:347 - Failed to get advertising image, set to default
+2020-12-07 21:05:54,547 [FATAL] Updater:284 - Updater called before beeing initialized
+2020-12-07 21:05:54,547 [WARN] ThirdParty:783 - waiting for thirdparty lock release [close project]
+2020-12-07 21:05:56,559 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [2/15]
+2020-12-07 21:05:59,567 [FATAL] Updater:284 - Updater called before beeing initialized
+2020-12-07 21:05:59,567 [ERROR] AbstractThirdPartyUpdaterManager:153 - java.lang.Integer cannot be cast to java.util.List
+2020-12-07 21:05:59,567 [INFO] ThirdParty:887 - Integrity check success = false
+2020-12-07 21:05:59,568 [INFO] IntegrityCheckThread:75 - exiting critical section [integrity check]
+2020-12-07 21:05:59,568 [INFO] IntegrityCheckThread:78 - End integrity checks thread
+2020-12-07 21:05:59,568 [INFO] ThirdParty:785 - entering critical section [close project]
+2020-12-07 21:05:59,568 [INFO] ThirdParty:796 - exiting critical section [close project]
+2020-12-07 21:05:59,571 [INFO] PinOutPanel:1434 - setPackage(No Configuration,No Configuration)
+2020-12-07 21:05:59,571 [FATAL] Updater:284 - Updater called before beeing initialized
+2020-12-07 21:05:59,576 [ERROR] Updater:1065 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2020-12-07 21:05:59,578 [INFO] Updater:1002 - Updater Version found : 6.1.0
+2020-12-07 21:05:59,592 [INFO] ApplicationProperties:181 - Using Application install path: D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557
+2020-12-07 21:05:59,790 [INFO] MainUpdater:2644 - connection check result : 10
+2020-12-07 21:05:59,790 [INFO] MainUpdater:249 - Updater Check For Update Now.
+2020-12-07 21:05:59,791 [INFO] MicroXplorer:415 - Change Database Version : DB.6.0.10
+2020-12-07 21:05:59,817 [INFO] CheckServerUpdateThread:102 - End of CheckServer Thread
+2020-12-07 21:05:59,895 [INFO] MainUpdater:2644 - connection check result : 10
+2020-12-07 21:05:59,896 [INFO] MainUpdater:2644 - connection check result : 10
+2020-12-07 21:06:00,139 [INFO] MicroXplorer:385 - Change Database Path : 
+2020-12-07 21:06:00,139 [INFO] MicroXplorer:415 - Change Database Version : DB.6.0.10
+2020-12-07 21:06:00,139 [WARN] ThirdParty:783 - waiting for thirdparty lock release [close project]
+2020-12-07 21:06:00,139 [INFO] ThirdParty:785 - entering critical section [close project]
+2020-12-07 21:06:00,139 [INFO] ThirdParty:796 - exiting critical section [close project]
+2020-12-07 21:06:00,143 [INFO] PinOutPanel:1434 - setPackage(No Configuration,No Configuration)
+2020-12-07 21:06:00,144 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 336394960 Bytes (523239424)
+2020-12-07 21:06:00,147 [INFO] MicroXplorer:385 - Change Database Path : C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:06:00,148 [INFO] MicroXplorer:415 - Change Database Version : DB.5.0.50
+2020-12-07 21:06:00,148 [INFO] OpenFileManager:274 - Change cursor
+2020-12-07 21:06:00,152 [WARN] ThirdParty:204 - Use empty third party IP manager
+2020-12-07 21:06:00,645 [WARN] IntegrityCheckThread:59 - waiting for thirdparty lock release [integrity check]
+2020-12-07 21:06:00,645 [INFO] IntegrityCheckThread:61 - entering critical section [integrity check]
+2020-12-07 21:06:00,710 [WARN] ConditionMgr:437 - getConditionDescription Invalid condition id : SIGFOX STM32 LIB Condition cause : null
+2020-12-07 21:06:00,718 [WARN] ConditionMgr:437 - getConditionDescription Invalid condition id : Sigfox Third Party LIB Condition cause : null
+2020-12-07 21:06:00,722 [WARN] ConditionMgr:1040 - genDependencies : Invalid condition id : SIGFOX STM32 LIB Condition cause : null
+2020-12-07 21:06:00,722 [WARN] ConditionMgr:1040 - genDependencies : Invalid condition id : Sigfox Third Party LIB Condition cause : null
+2020-12-07 21:06:00,722 [WARN] ConditionMgr:1040 - genDependencies : Invalid condition id : Sigfox Third Party LIB Condition cause : null
+2020-12-07 21:06:00,722 [WARN] ConditionMgr:1040 - genDependencies : Invalid condition id : SIGFOX STM32 LIB Condition cause : null
+2020-12-07 21:06:00,722 [WARN] ConditionMgr:1040 - genDependencies : Invalid condition id : SIGFOX STM32 LIB Condition cause : null
+2020-12-07 21:06:00,722 [WARN] ConditionMgr:1040 - genDependencies : Invalid condition id : Sigfox Third Party LIB Condition cause : null
+2020-12-07 21:06:00,938 [INFO] ThirdParty:887 - Integrity check success = true
+2020-12-07 21:06:00,939 [INFO] IntegrityCheckThread:75 - exiting critical section [integrity check]
+2020-12-07 21:06:00,939 [INFO] IntegrityCheckThread:78 - End integrity checks thread
+2020-12-07 21:06:04,332 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A3' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2020-12-07 21:06:04,332 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS01A2' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2020-12-07 21:06:04,332 [WARN] ApiManager:294 - Cannot register API 'Board Extension:IKS02A1' from pack STMicroelectronics.X-CUBE-MEMS1.8.2.0: no header file found
+2020-12-07 21:06:04,340 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA1' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2020-12-07 21:06:04,340 [WARN] ApiManager:294 - Cannot register API 'Board Extension:EEPRMA2' from pack STMicroelectronics.X-CUBE-EEPRMA1.3.0.0: no header file found
+2020-12-07 21:06:04,345 [INFO] RtosManager:464 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2020-12-07 21:06:04,345 [INFO] RtosManager:464 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2020-12-07 21:06:04,345 [INFO] RtosManager:464 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2020-12-07 21:06:04,345 [INFO] RtosManager:464 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2020-12-07 21:06:04,345 [WARN] ModelIntegratedComponent:182 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2020-12-07 21:06:04,349 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.0: no header file found
+2020-12-07 21:06:04,349 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.0: no header file found
+2020-12-07 21:06:04,349 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SUBG2.3.0.0: no header file found
+2020-12-07 21:06:04,351 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,351 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,351 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,351 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,351 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,351 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,352 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,353 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,354 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,354 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,354 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,354 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,354 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,354 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,354 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,354 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2020-12-07 21:06:04,355 [WARN] ApiManager:294 - Cannot register API 'Board Extension:GNSS1A1' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2020-12-07 21:06:04,355 [WARN] ApiManager:294 - Cannot register API 'Board Support:Custom' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2020-12-07 21:06:04,355 [WARN] ApiManager:294 - Cannot register API 'Data Exchange:lib_gnss' from pack STMicroelectronics.X-CUBE-GNSS1.5.1.0: no header file found
+2020-12-07 21:06:04,356 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-MS' from pack STMicroelectronics.X-CUBE-BLE1.6.1.0: no header file found
+2020-12-07 21:06:04,357 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2020-12-07 21:06:04,357 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2868A2' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2020-12-07 21:06:04,357 [WARN] ApiManager:294 - Cannot register API 'Board Extension:S2915A1' from pack STMicroelectronics.X-CUBE-SFXS2LP1.2.0.0: no header file found
+2020-12-07 21:06:04,358 [WARN] ApiManager:294 - Cannot register API 'Board Extension:NFC04A1' from pack STMicroelectronics.X-CUBE-NFC4.2.0.1: no header file found
+2020-12-07 21:06:04,358 [WARN] ApiManager:294 - Cannot register API 'Wireless:BlueNRG-2' from pack STMicroelectronics.X-CUBE-BLE2.3.1.0: no header file found
+2020-12-07 21:06:04,502 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2020-12-07 21:06:04,503 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RNGFreq_Value) has invalid value (96000000)
+2020-12-07 21:06:04,503 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (SDMMC2Freq_Value) has invalid value (96000000)
+2020-12-07 21:06:04,503 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (SDMMCFreq_Value) has invalid value (96000000)
+2020-12-07 21:06:04,504 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (96000000)
+2020-12-07 21:06:04,910 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 376532016 Bytes (523239424)
+2020-12-07 21:06:04,936 [INFO] DbMcusXml:97 - Load MCU database from D:\ST\STM32CubeIDE_1.2.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.1.0.202011121557\\db\/mcu/families.xml
+2020-12-07 21:06:05,347 [INFO] DbMcusJson:92 - JSON generation date=Thu Nov 05 17:05:07 CET 2020 (1604592307)
+2020-12-07 21:06:05,879 [INFO] DbMcus:176 - Found 1835 MCUs (1796 are supported by CubeMX, 1796 are visible in CubeMX)
+2020-12-07 21:06:05,879 [INFO] ApiDb:238 - Load user favorites file C:\Users\kalom/.stm32cubeide/favorites.mcus.txt: 1 item(s)
+2020-12-07 21:06:05,879 [INFO] ApiDb:242 - User favorites MCUs=[STM32F429ZITx]
+2020-12-07 21:06:05,880 [INFO] DbMcus:188 - Set 1 / 1 favorites MCUs
+2020-12-07 21:06:05,882 [WARN] ThirdParty:749 - waiting for thirdparty lock release [change project]
+2020-12-07 21:06:05,882 [INFO] ThirdParty:751 - entering critical section [change project]
+2020-12-07 21:06:05,882 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 8.2.0
+2020-12-07 21:06:05,882 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2020-12-07 21:06:05,882 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 3.0.0
+2020-12-07 21:06:05,882 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2020-12-07 21:06:05,882 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 3.0.0
+2020-12-07 21:06:05,882 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2020-12-07 21:06:05,882 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 5.1.0
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.1.0
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 2.0.0
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 2.0.1
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.1.0
+2020-12-07 21:06:05,883 [INFO] ThirdParty:939 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2020-12-07 21:06:05,884 [INFO] ThirdParty:757 - exiting critical section [change project]
+2020-12-07 21:06:06,349 [INFO] PinOutPanel:1434 - setPackage(No Configuration,No Configuration)
+2020-12-07 21:06:06,351 [INFO] PinOutPanel:1434 - setPackage(STM32F767ZITx,LQFP144)
+2020-12-07 21:06:07,090 [INFO] UtilMem:74 - Before build in PCC Used Memory: 463241392 Bytes (657457152)
+2020-12-07 21:06:07,529 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/kalom/.stm32cubemx/plugins/power
+2020-12-07 21:06:07,560 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/kalom/.stm32cubemx/plugins/power
+2020-12-07 21:06:07,600 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/kalom/.stm32cubemx/plugins/power
+2020-12-07 21:06:07,606 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/kalom/.stm32cubemx/plugins/power
+2020-12-07 21:06:07,823 [INFO] UtilMem:74 - After build in PCC Used Memory: 524058800 Bytes (657457152)
+2020-12-07 21:06:07,841 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,841 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,841 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,841 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,841 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,841 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,841 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,842 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,842 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,842 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,842 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,842 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,842 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,843 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,843 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,843 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,843 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,843 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,843 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,843 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,844 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,844 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,844 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,844 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,844 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,844 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,845 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,846 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,846 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,846 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,846 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,847 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,847 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,855 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,856 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,857 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,857 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,857 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,858 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,858 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,858 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,859 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,859 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,860 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,861 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,861 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,861 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,862 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,862 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,862 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,863 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,863 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,864 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,864 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,864 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,865 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,865 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,866 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,866 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,866 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,867 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,867 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,868 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,868 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,869 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,869 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,870 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,871 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,871 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,872 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,872 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,873 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,874 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2020-12-07 21:06:07,942 [INFO] ApiDbMcu:456 - Load IP Config File for PDM2PCM
+2020-12-07 21:06:08,005 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2020-12-07 21:06:08,131 [INFO] OpenFileManager:294 - Restore cursor
+2020-12-07 21:10:10,360 [INFO] DbMcusDocs:145 - JSON generation date=Thu Nov 05 17:05:07 CET 2020 (1604592307)
+2020-12-07 21:10:10,449 [INFO] DbMcusDocs:81 - Found 601 MCUs documents
+2020-12-07 21:12:12,353 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 410734576 Bytes (657457152)
+2020-12-07 21:12:16,108 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 446387312 Bytes (657457152)
+2020-12-07 21:12:16,555 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:12:16,555 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:12:16,555 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:12:16,555 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:12:16,555 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:12:16,555 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:12:16,556 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:12:16,557 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:12:17,222 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:12:17,588 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:12:17,646 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:12:17,714 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:12:17,865 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:12:17,870 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:12:17,914 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:12:17,915 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:12:17,926 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:12:18,064 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:12:18,070 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:12:18,117 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:12:18,128 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:12:18,205 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:12:18,208 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:12:18,243 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:12:18,251 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:12:18,338 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:12:18,358 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:12:18,359 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:12:18,366 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:12:18,433 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:12:18,440 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:12:18,545 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:12:19,111 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 155mS.
+2020-12-07 21:12:19,115 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:12:19,486 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:12:19,494 [INFO] ApiDbMcu:456 - Load IP Config File for FATFS
+2020-12-07 21:12:19,499 [INFO] ApiDbMcu:456 - Load IP Config File for FREERTOS
+2020-12-07 21:12:19,502 [INFO] ApiDbMcu:456 - Load IP Config File for LIBJPEG
+2020-12-07 21:12:19,507 [INFO] ApiDbMcu:456 - Load IP Config File for LWIP
+2020-12-07 21:12:19,512 [INFO] ApiDbMcu:456 - Load IP Config File for MBEDTLS
+2020-12-07 21:12:19,521 [INFO] ApiDbMcu:456 - Load IP Config File for USB_DEVICE
+2020-12-07 21:12:19,525 [INFO] ApiDbMcu:456 - Load IP Config File for USB_HOST
+2020-12-07 21:12:22,092 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 2977mS.
+2020-12-07 21:12:22,093 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 1mS.
+2020-12-07 21:12:22,094 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:17:53,260 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 557136352 Bytes (1020264448)
+2020-12-07 21:17:55,563 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 574435816 Bytes (1020264448)
+2020-12-07 21:17:55,685 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 637350376 Bytes (1020264448)
+2020-12-07 21:17:55,849 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:17:55,850 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:17:55,850 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:17:55,850 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:17:55,850 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:17:55,850 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:17:55,850 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:17:55,851 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:17:56,249 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:17:56,284 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:17:56,295 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:17:56,351 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:17:56,410 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:17:56,414 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:17:56,459 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:17:56,459 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:17:56,470 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:17:56,520 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:17:56,523 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:17:56,560 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:17:56,569 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:17:56,628 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:17:56,630 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:17:56,663 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:17:56,669 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:17:56,712 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:17:56,723 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:17:56,724 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:17:56,728 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:17:56,771 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:17:56,776 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:17:56,891 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:17:57,224 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 50mS.
+2020-12-07 21:17:57,226 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:17:57,423 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:17:58,989 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1763mS.
+2020-12-07 21:17:58,989 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:17:58,991 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 1mS.
+2020-12-07 21:18:52,681 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 784159472 Bytes (1073741824)
+2020-12-07 21:18:52,823 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:18:52,823 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:18:52,823 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:18:52,823 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:18:52,823 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:18:52,823 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:18:52,823 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:18:52,824 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:18:53,201 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:18:53,231 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:18:53,241 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:18:53,273 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:18:53,328 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:18:53,331 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:18:53,362 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:18:53,362 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:18:53,372 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:18:53,418 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:18:53,420 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:18:53,454 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:18:53,461 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:18:53,518 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:18:53,520 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:18:53,551 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:18:53,557 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:18:53,598 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:18:53,608 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:18:53,609 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:18:53,613 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:18:53,697 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:18:53,701 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:18:53,788 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:18:54,118 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 48mS.
+2020-12-07 21:18:54,120 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:18:54,287 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:18:55,702 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1582mS.
+2020-12-07 21:18:55,702 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:18:55,703 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:20:09,989 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 572176096 Bytes (1073741824)
+2020-12-07 21:20:12,492 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 602062552 Bytes (1073741824)
+2020-12-07 21:20:12,628 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:20:12,628 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:20:12,628 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:20:12,628 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:20:12,628 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:20:12,628 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:20:12,628 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:20:12,628 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:20:12,979 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:20:13,009 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:20:13,018 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:20:13,049 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:20:13,102 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:20:13,106 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:20:13,137 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:20:13,138 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:20:13,148 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:20:13,194 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:20:13,197 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:20:13,233 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:20:13,240 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:20:13,298 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:20:13,300 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:20:13,332 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:20:13,337 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:20:13,377 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:20:13,389 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:20:13,390 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:20:13,394 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:20:13,430 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:20:13,434 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:20:13,494 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:20:13,925 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 52mS.
+2020-12-07 21:20:13,927 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:20:14,225 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:20:15,036 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1109mS.
+2020-12-07 21:20:15,037 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:20:15,038 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:22:07,552 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 686186784 Bytes (1073741824)
+2020-12-07 21:22:09,920 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 747307344 Bytes (1073741824)
+2020-12-07 21:22:10,042 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 818610512 Bytes (1073741824)
+2020-12-07 21:22:10,178 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:22:10,178 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:22:10,178 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:22:10,178 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:22:10,178 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:22:10,178 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:22:10,179 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:22:10,179 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:22:10,537 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:22:10,566 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:22:10,575 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:22:10,606 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:22:10,661 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:22:10,665 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:22:10,699 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:22:10,700 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:22:10,710 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:22:10,755 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:22:10,758 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:22:10,842 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:22:10,849 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:22:10,903 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:22:10,905 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:22:10,934 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:22:10,939 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:22:10,978 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:22:10,988 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:22:10,988 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:22:10,992 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:22:11,028 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:22:11,032 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:22:11,091 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:22:11,433 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 60mS.
+2020-12-07 21:22:11,435 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:22:11,600 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:22:12,740 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1305mS.
+2020-12-07 21:22:12,740 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:22:12,741 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:23:07,519 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 524450904 Bytes (1073741824)
+2020-12-07 21:23:09,207 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 554333280 Bytes (1073741824)
+2020-12-07 21:23:09,343 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:23:09,343 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:23:09,343 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:23:09,343 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:23:09,343 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:23:09,343 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:23:09,344 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:23:09,344 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:23:09,690 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:23:09,720 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:23:09,730 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:23:09,762 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:23:09,823 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:23:09,827 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:23:09,865 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:23:09,866 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:23:09,876 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:23:09,921 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:23:09,924 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:23:09,958 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:23:09,966 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:23:10,024 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:23:10,026 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:23:10,059 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:23:10,065 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:23:10,106 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:23:10,116 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:23:10,117 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:23:10,122 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:23:10,159 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:23:10,164 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:23:10,267 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:23:10,610 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 64mS.
+2020-12-07 21:23:10,612 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:23:10,778 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:23:12,800 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 2188mS.
+2020-12-07 21:23:12,801 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 1mS.
+2020-12-07 21:23:12,802 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:24:00,797 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 779386168 Bytes (1073741824)
+2020-12-07 21:24:02,817 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 794066232 Bytes (1073741824)
+2020-12-07 21:24:05,214 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 296659784 Bytes (1073741824)
+2020-12-07 21:24:05,352 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:24:05,353 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:24:05,353 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:24:05,353 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:24:05,353 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:24:05,353 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:24:05,353 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:24:05,354 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:24:05,673 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:24:05,703 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:24:05,714 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:24:05,745 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:24:05,798 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:24:05,803 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:24:05,836 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:24:05,837 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:24:05,847 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:24:05,930 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:24:05,933 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:24:05,967 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:24:05,974 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:24:06,027 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:24:06,029 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:24:06,059 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:24:06,064 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:24:06,102 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:24:06,112 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:24:06,112 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:24:06,117 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:24:06,153 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:24:06,157 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:24:06,218 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:24:06,542 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 49mS.
+2020-12-07 21:24:06,544 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:24:06,716 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:24:07,946 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1402mS.
+2020-12-07 21:24:07,946 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:24:07,947 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:24:39,621 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 762646856 Bytes (1073741824)
+2020-12-07 21:24:42,543 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 320131280 Bytes (1073741824)
+2020-12-07 21:24:42,679 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:24:42,679 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:24:42,679 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:24:42,679 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:24:42,679 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:24:42,679 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:24:42,679 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:24:42,680 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:24:43,001 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:24:43,031 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:24:43,040 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:24:43,072 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:24:43,164 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:24:43,168 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:24:43,200 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:24:43,201 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:24:43,211 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:24:43,256 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:24:43,259 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:24:43,294 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:24:43,301 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:24:43,354 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:24:43,356 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:24:43,386 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:24:43,392 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:24:43,431 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:24:43,440 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:24:43,442 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:24:43,445 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:24:43,484 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:24:43,488 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:24:43,546 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:24:43,866 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 42mS.
+2020-12-07 21:24:43,869 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:24:44,032 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:24:45,013 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1144mS.
+2020-12-07 21:24:45,014 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 1mS.
+2020-12-07 21:24:45,015 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:25:40,922 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 388433696 Bytes (1073741824)
+2020-12-07 21:25:41,064 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:25:41,064 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:25:41,065 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:25:41,065 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:25:41,065 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:25:41,065 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:25:41,065 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:25:41,065 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:25:41,385 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:25:41,414 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:25:41,422 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:25:41,454 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:25:41,549 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:25:41,553 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:25:41,583 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:25:41,584 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:25:41,593 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:25:41,637 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:25:41,640 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:25:41,675 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:25:41,682 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:25:41,736 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:25:41,737 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:25:41,767 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:25:41,772 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:25:41,812 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:25:41,822 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:25:41,822 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:25:41,827 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:25:41,863 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:25:41,866 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:25:41,924 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:25:42,241 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 43mS.
+2020-12-07 21:25:42,243 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:25:42,405 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:25:43,396 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1153mS.
+2020-12-07 21:25:43,396 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:25:43,397 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:28:12,997 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 767257080 Bytes (1073741824)
+2020-12-07 21:28:15,578 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 797667400 Bytes (1073741824)
+2020-12-07 21:28:15,736 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:28:15,736 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:28:15,736 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:28:15,736 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:28:15,736 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:28:15,736 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:28:15,736 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:28:15,737 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:28:16,080 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:28:16,134 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:28:16,144 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:28:16,197 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:28:16,300 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:28:16,304 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:28:16,337 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:28:16,338 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:28:16,348 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:28:16,417 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:28:16,420 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:28:16,454 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:28:16,461 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:28:16,513 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:28:16,515 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:28:16,546 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:28:16,551 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:28:16,591 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:28:16,601 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:28:16,602 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:28:16,607 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:28:16,669 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:28:16,672 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:28:16,730 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:28:17,055 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 47mS.
+2020-12-07 21:28:17,057 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:28:17,373 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:28:18,113 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1056mS.
+2020-12-07 21:28:18,113 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:28:18,114 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:29:19,142 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 656080728 Bytes (1073741824)
+2020-12-07 21:29:20,757 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 719522328 Bytes (1073741824)
+2020-12-07 21:29:20,877 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 789776208 Bytes (1073741824)
+2020-12-07 21:29:21,044 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:29:21,044 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:29:21,044 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:29:21,044 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:29:21,044 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:29:21,044 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:29:21,045 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:29:21,045 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:29:21,364 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:29:21,393 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:29:21,402 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:29:21,433 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:29:21,528 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:29:21,532 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:29:21,562 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:29:21,563 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:29:21,572 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:29:21,615 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:29:21,618 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:29:21,652 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:29:21,659 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:29:21,711 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:29:21,713 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:29:21,743 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:29:21,749 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:29:21,788 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:29:21,797 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:29:21,798 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:29:21,802 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:29:21,838 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:29:21,841 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:29:21,898 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:29:22,221 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 45mS.
+2020-12-07 21:29:22,223 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:29:22,523 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:29:23,255 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1032mS.
+2020-12-07 21:29:23,256 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:29:23,257 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:31:33,560 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 552916336 Bytes (1073741824)
+2020-12-07 21:31:36,236 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 584375664 Bytes (1073741824)
+2020-12-07 21:31:36,382 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:31:36,382 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:31:36,383 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:31:36,383 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:31:36,383 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:31:36,383 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:31:36,383 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:31:36,383 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:31:36,762 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:31:36,791 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:31:36,800 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:31:36,831 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:31:36,880 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:31:36,884 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:31:36,915 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:31:36,916 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:31:36,925 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:31:36,970 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:31:36,972 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:31:37,009 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:31:37,016 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:31:37,068 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:31:37,070 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:31:37,101 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:31:37,106 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:31:37,145 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:31:37,154 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:31:37,155 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:31:37,160 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:31:37,196 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:31:37,199 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:31:37,296 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:31:37,613 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 42mS.
+2020-12-07 21:31:37,615 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:31:37,781 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:31:38,908 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1293mS.
+2020-12-07 21:31:38,908 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:31:38,910 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:43:25,552 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 431467824 Bytes (1073741824)
+2020-12-07 21:43:27,537 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 492811560 Bytes (1073741824)
+2020-12-07 21:43:27,651 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 563824608 Bytes (1073741824)
+2020-12-07 21:43:27,789 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:43:27,789 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F77
+2020-12-07 21:43:27,789 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2020-12-07 21:43:27,790 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2020-12-07 21:43:27,790 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2020-12-07 21:43:27,790 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: CORTEX_M7
+2020-12-07 21:43:27,790 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2020-12-07 21:43:27,790 [INFO] CodeGenerator:639 - code generatio: config db path: C:/Users/kalom/.stm32cubemx/databases/DB.5.0.50/db/
+2020-12-07 21:43:28,141 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp_save
+2020-12-07 21:43:28,172 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\license.tmp
+2020-12-07 21:43:28,181 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp_save
+2020-12-07 21:43:28,212 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\gpio.tmp
+2020-12-07 21:43:28,264 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:43:28,267 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp_save
+2020-12-07 21:43:28,297 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\cortex.tmp
+2020-12-07 21:43:28,298 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-12-07 21:43:28,307 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c_save
+2020-12-07 21:43:28,350 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_it.c
+2020-12-07 21:43:28,352 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h_save
+2020-12-07 21:43:28,386 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_it.h
+2020-12-07 21:43:28,392 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c_save
+2020-12-07 21:43:28,445 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\stm32f7xx_hal_msp.c
+2020-12-07 21:43:28,447 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp_save
+2020-12-07 21:43:28,478 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\MXTmpFiles\system.tmp
+2020-12-07 21:43:28,483 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h_save
+2020-12-07 21:43:28,528 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\stm32f7xx_hal_conf.h
+2020-12-07 21:43:28,537 [WARN] IPConfigManager:2967 - IP not found : TIM
+2020-12-07 21:43:28,538 [WARN] CodeGenerator:3177 - IP not found : null
+2020-12-07 21:43:28,543 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h_save
+2020-12-07 21:43:28,580 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Inc\main.h
+2020-12-07 21:43:28,583 [INFO] CodeEngine:229 - oldGeneratedFile, D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c_save
+2020-12-07 21:43:28,668 [INFO] CodeEngine:247 - Generated code: D:\CVUT\Embd\Learn-STM32-Basics\Interrupt_Timer_PWM\Core\Src\main.c
+2020-12-07 21:43:28,997 [INFO] ProjectBuilder:2328 - Time for Copy HAL[1] : 45mS.
+2020-12-07 21:43:28,999 [INFO] ProjectBuilder:3259 - Project Generator version: 3.11.0-B13
+2020-12-07 21:43:29,396 [INFO] ConfigFileManager:1238 - The Die is : DIE451
+2020-12-07 21:43:30,141 [INFO] ProjectBuilder:3425 - Time for Generating toolchain IDE Files: 1142mS.
+2020-12-07 21:43:30,141 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 0mS.
+2020-12-07 21:43:30,143 [INFO] ProjectBuilder:2207 - Time for Copy CMSIS : 1mS.
+2020-12-08 14:20:20,970 [INFO] Activator:170 - 
+
+
+2020-12-08 14:20:21,006 [INFO] Activator:171 - !SESSION log4j initialized
